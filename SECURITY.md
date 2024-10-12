@@ -1,15 +1,21 @@
 # Security Policy
 
-Compiler Explorer allows remote users to compile and, if configured, execute code. We take security seriously, and
-encourage users to promptly report security vulnerabilities they find.
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
 
-If the issue can be reported without revealing exploitable specifics, please file
-[an issue](https://github.com/compiler-explorer/compiler-explorer/issues/new/choose) as a bug.
+Use this section to tell people how to report a vulnerability.
 
-Please email matt@godbolt.org with specifics, or if the bug can't be reported publically without leaving an obvious
-exploit in the public eye.
-
-We expect to get back within a day or two. If you don't hear from us, please do ping us again, or reach out to us on the
-[Discord](https://discord.gg/wFXUwDp).
+Tell them where to go, how often they can expect to get an update on a
+reported vulnerability, what to expect if the vulnerability is accepted or
+declined, etc.
